@@ -1,6 +1,62 @@
 [
-    {
-    "ID":"HOME",
-    "Text":"Benvenuto nel Menu di IperBOT\nInstallazione eseguita correttamente"
-    }
+  {
+    "ID": "HOME",
+    "Text": "Benvenuto su InfoDesio.",
+    "Button": [
+      {
+        "Text": "Mensa scuola",
+        "ID": "menu_scuola"
+      }
+    ]
+  },
+  {
+    "ID": "menu_scuola",
+    "Text": "Seleziona il menù desiderato.",
+    "ParseMode": "Markdown",
+    "AlertText": "",
+    "AlertShow": false,
+    "Button": [
+      {
+        "Text": "Estivo (corrente)",
+        "ID": "menu_estivo_16_17"
+      },
+      {
+        "Text": "Menù invernale",
+        "ID": "menu_invernale_16_17"
+      },
+      {
+        "Text": "Menu precedente",
+        "ID": "HOME"
+      }
+    ]
+  },
+  {
+    "ID": "menu_estivo_16_17",
+    "Text": "Menù valido dal 5 Settembre al 21 Ottobre 2016 e dal 18 Aprile 2017 al 30 Giugno 2017.",
+    "ParseMode": "Markdown",
+    "AlertText": "",
+    "AlertShow": false,
+    "Button": [
+      {
+        "Text": "Settimana 1",
+        "ID": "menu_estivo_16_17_settimana_1"
+      },
+      {
+        "Text": "Settimana 2",
+        "ID": "menu_estivo_16_17_settimana_2"
+      },
+      {
+        "Text": "Settimana 3",
+        "ID": "menu_estivo_16_17_settimana_3"
+      },
+      {
+        "Text": "Settimana 4",
+        "ID": "menu_estivo_16_17_settimana_4"
+      },
+      {
+        "Text": "Menu precedente",
+        "ID": "menu_scuola"
+      }
+    ]
+  }
 ]
