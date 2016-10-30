@@ -106,5 +106,11 @@
         "ID": "menu_invernale_16_17"
       }
     ]
+  },
+  {
+    "ID": "INFO",
+    "IDNEXT": "HOME",
+    "Text": "Creato da Paolo Fisco @ipersoft"
   }
+  
 ]
