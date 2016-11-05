@@ -1,4 +1,4 @@
-_Menù della 1a settimana del mese_
+_Menù della 2a settimana del mese_
 
 *Lunedi'*
 
