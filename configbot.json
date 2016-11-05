@@ -17,8 +17,12 @@
     "AlertShow": false,
     "Button": [
       {
-        "Text": "Menù invernale",
+        "Text": "Scuole statali",
         "ID": "menu_invernale_16_17"
+      },
+      {
+        "Text": "Umberto I",
+        "ID": "menu_invernale_umbertoi"
       },
       {
         "Text": "Menu precedente",
@@ -111,6 +115,86 @@
     "ID": "INFO",
     "IDNEXT": "HOME",
     "Text": "Creato da Paolo Fisco @ipersoft"
+  },
+  {
+    "ID": "menu_invernale_umbertoi",
+    "Text": "Menù Scuola Infanzia Umberto I",
+    "ParseMode": "Markdown",
+    "AlertText": "",
+    "AlertShow": false,
+    "Button": [
+      {
+        "Text": "Settimana 1",
+        "ID": "menu_invernale_umbertoi_settimana_1"
+      },
+      {
+        "Text": "Settimana 2",
+        "ID": "menu_invernale_umbertoi_settimana_2"
+      },
+      {
+        "Text": "Settimana 3",
+        "ID": "menu_invernale_umbertoi_settimana_3"
+      },
+      {
+        "Text": "Settimana 4",
+        "ID": "menu_invernale_umbertoi_settimana_4"
+      },
+      {
+        "Text": "Menu precedente",
+        "ID": "menu_scuola"
+      }
+    ]
+  },
+  {
+    "ID": "menu_invernale_umbertoi_settimana_4",
+    "Text": "_Menù della 4a settimana del mese_\n\n*Lunedi'*\n\n - Pasta al Pomodoro\n - Rollata di frittata\n - Finocchi Crudi\n - Frutta di Stagione\n\n*Martedi'* (+)\n\n - Riso con verdure\n - Fesa di Tacchino al limone 1/2 porz. \n - Piselli spadellati 1/2 porz.\n - Frutta di Stagione\n\n*Mercoledi'*\n\n - Monestra d'orzo\n - Prosciutto cotto e crudo (*)\n - Patate al forno\n - Frutta di Stagione\n\n*Giovedi'* (+)\n\n - Lasagne\n - Carote cotte\n - Budino o Yogurt\n\n*Venerdi'*\n\n - Pasta allo zafferano e zucchine\n - Platessa Gratinata\n - Fagiolini\n - Frutta di Stagione\n\n(+) IL PANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA\n\n(*) Prosciutto cotto (scuole infanzia)\n\n(*) Bresaola una volta ogni 15 giorni (scuole infanzia)",
+    "ParseMode": "Markdown",
+    "AlertText": "",
+    "AlertShow": false,
+    "Button": [
+      {
+        "Text": "Menu precedente",
+        "ID": "menu_invernale_umbertoi"
+      }
+    ]
+  },
+  {
+    "ID": "menu_invernale_umbertoi_settimana_3",
+    "Text": "_Menù della 3a settimana del mese_\n\n*Lunedi'*\n\n - Riso all'inglese con piselli\n - Bastoncini \n - Erbette\n - Frutta di Stagione\n\n*Martedi'*\n\n - Pizza Margherita\n - Una fetta di Prosciutto Cotto\n - Finocchi cotti\n - Frutta di Stagione\n\n*Mercoledi'*\n\n - Minestrone\n - Scaloppa di Lonza\n - Patate al forno\n - Frutta di Stagione\n\n*Giovedi'* (+)\n\n - Gnocchi al ragù\n - Insalata e Carote Cotte\n - Budino\n\n*Venerdi'*\n\n - Pasta al ragù vegetale\n - Cosce di pollo al forno\n - Fagiolini\n - Grutta di stagione\n\n(+) IL PANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA",
+    "ParseMode": "Markdown",
+    "AlertText": "",
+    "AlertShow": false,
+    "Button": [
+      {
+        "Text": "Menu precedente",
+        "ID": "menu_invernale_umbertoi"
+      }
+    ]
+  },
+  {
+    "ID": "menu_invernale_umbertoi_settimana_2",
+    "Text": "_Menù della 2a settimana del mese_\n\n*Lunedi'*\n\n - Ravioli di ricotta e Passato di verdure spinaci alla salvia\n - Prosciutto Cotto - Coppa (*)\n - Erbette\n - Frutta di Stagione\n\n*Martedi'* (+)\n\n - Spaghetti(**) al Pomodoro\n - Platessa Gratinata \n - Fagiolini \n - Frutta di Stagione\n\n*Mercoledi'*\n\n - Passato di verdure con Farro\n - Hamburger alla pizzaiola\n - Purè\n - Frutta di Stagione\n\n*Giovedi'* (+)\n\n - Risotto allo zafferano\n - Fesa di tacchino\n - Insalata\n - Frutta di Stagione \n\n*Venerdi'*\n\n - Pasta e fagioli o pasta e lenticchie\n - 1/2 porz. di mozzarella\n - Carote crude\n - Torta\n\n(+) IL PANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA\n\n(*) Prosciutto cotto (scuole infanzia)\n\n(*) Bresaola una volta ogni 15 giorni (scuole infanzia)\n\n(**) Pasta corta (scuola infanzia)",
+    "ParseMode": "Markdown",
+    "AlertText": "",
+    "AlertShow": false,
+    "Button": [
+      {
+        "Text": "Menu precedente",
+        "ID": "menu_invernale_umbertoi"
+      }
+    ]
+  },
+  {
+    "ID": "menu_invernale_umbertoi_settimana_1",
+    "Text": "_Menù della 1a settimana del mese_\n\n*Lunedi'*\n\n - Riso al Pomodoro\n - Frittata\n - Piselli spadellati 1/2 porz.\n - Frutta di Stagione\n\n*Martedi'* (+)\n\n - Maccheroncini alla Salvia\n - Cosce di pollo\n - Carote Julienne \n - Frutta di Stagione\n\n*Mercoledi'*\n\n - Crema di verdure con pasta \n\n - Polpette al sugo e origano\n - Patate al forno\n - Frutta di Stagione\n\n*Giovedi'*\n\n - Pizza Margherita\n - Una fetta di Prosciutto Cotto\n - Finocchi Crudi\n - Budino-Yogurt\n\n*Venerdi'*\n\n - Pasta alla ligure\n - Platessa al forno\n - Insalata\n - Frutta di Stagione\n\n(+) ILPANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA",
+    "ParseMode": "Markdown",
+    "AlertText": "",
+    "AlertShow": false,
+    "Button": [
+      {
+        "Text": "Menu precedente",
+        "ID": "menu_invernale_umbertoi"
+      }
+    ]
   }
-  
 ]
