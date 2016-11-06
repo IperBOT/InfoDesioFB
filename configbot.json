@@ -140,6 +140,10 @@
         "ID": "menu_invernale_umbertoi_settimana_4"
       },
       {
+        "Text": "PDF Completo",
+        "ID": "menu_invernale_umbertoi_pdf"
+      },
+      {
         "Text": "Menu precedente",
         "ID": "menu_scuola"
       }
@@ -196,5 +200,15 @@
         "ID": "menu_invernale_umbertoi"
       }
     ]
-  }
+  },
+   {
+      "ID":"menu_invernale_umbertoi_pdf",
+      "Document":"https://raw.githubusercontent.com/IperBOT/InfoDesioFB/master/menu/umbertoi/16_17/MenuUmbertoI-Invernale.pdf",
+    "Button": [
+      {
+        "Text": "Menu precedente",
+        "ID": "menu_invernale_umbertoi"
+      }
+    ]
+   }
 ]
