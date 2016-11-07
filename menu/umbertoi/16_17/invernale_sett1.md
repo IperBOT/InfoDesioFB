@@ -36,4 +36,4 @@ _Menù della 1a settimana del mese_
  - Insalata
  - Frutta di Stagione
 
-(+) ILPANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA
+(+) IL PANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA
