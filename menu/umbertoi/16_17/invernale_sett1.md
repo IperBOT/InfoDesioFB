@@ -17,7 +17,6 @@ _Menù della 1a settimana del mese_
 *Mercoledi'*
 
  - Crema di verdure con pasta 
-
  - Polpette al sugo e origano
  - Patate al forno
  - Frutta di Stagione
